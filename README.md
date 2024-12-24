@@ -1,7 +1,5 @@
 <div align="center">
-  
-
-  <h3 align="center">Ecommerce Price Tracking Application</h3>
+  <h3 align="center">E-commerce Price Tracking Application</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
