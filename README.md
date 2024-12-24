@@ -43,7 +43,7 @@ Make sure you have the following installed on your machine:
 
 **Clone the Repo**
 ```bash
-git clone https://github.com/GavinWang-2024/Amazon_product_tracker.git
+git clone https://github.com/GavinWang-2024/Amazon_Price_Tracker.git
 ```
 
 **Installation**
